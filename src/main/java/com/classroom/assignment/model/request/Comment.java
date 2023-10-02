@@ -4,6 +4,7 @@ public class Comment {
 
   private String name;
   private String content;
+  
 
   public Comment(String name, String content) {
     this.setName(name);
